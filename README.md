@@ -4,7 +4,7 @@ Program to assist HexBot software collector from webcrawler, filters software by
 How to install:
 - Download the file 'trial'
 - Place in C drive [Will only work here]
-- Edit list.txt with your webcrawler logs
+- Edit list.txt with your webcrawler logs, enter only your software not IPs etc
 - Open the program > Press add and pick a place to save the outcome (Also can press cancel)
 - Press sort
 
