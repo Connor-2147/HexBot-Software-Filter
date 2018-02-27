@@ -9,4 +9,4 @@ How to install:
 - Press sort
 
 
-Got a suggestion? Email me at: Royalsconnor@outlook.com
+
